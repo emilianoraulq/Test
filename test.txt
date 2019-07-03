@@ -1,7 +1,5 @@
 Test!
 
-Una primera versión del problema
-
-Agregando contenido desde la rama problema.
+Problema solucionado.
 
 
