@@ -1,6 +1,7 @@
 Test!
 
-Problema quizas solucionado. //Emiliano genera un conflicto acá :P
+
+Problema quizas solucionado. //Emiliano genera un conflicto allá:P
 Problema no  solucionado.
 
 
